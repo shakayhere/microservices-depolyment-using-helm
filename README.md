@@ -1,4 +1,4 @@
-## Deployment of microservice application using Helm charts and Helmfile 
+## Deployment of Microservice Application using Helm charts and Helmfile 
 
 The demo app used in this project is forked project from Google Cloud Platformshows a simple user profile app set up using 
 - Forked link: https://github.com/shakayhere/kubernetes-microservices-demo
